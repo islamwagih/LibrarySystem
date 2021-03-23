@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1608901432 source:d:\programming\c++\main\librarysystem\main.cpp
+	<iostream>
+	"user.h"
+	"book.h"
+	"userlist.h"
+	"booklist.h"
+
+1608552469 source:d:\programming\c++\main\librarysystem\book.cpp
+	"book.h"
+
+1608546515 source:d:\programming\c++\main\librarysystem\user.cpp
+	"user.h"
+
+1608490623 d:\programming\c++\main\librarysystem\book.h
+	<iostream>
+	<cstring>
+	"user.h"
+
+1608477554 d:\programming\c++\main\librarysystem\user.h
+	<cstring>
+	<iostream>
+
+1608553320 source:d:\programming\c++\main\librarysystem\booklist.cpp
+	"booklist.h"
+
+1608548718 source:d:\programming\c++\main\librarysystem\userlist.cpp
+	"userlist.h"
+
+1608491835 d:\programming\c++\main\librarysystem\userlist.h
+	"user.h"
+
+1608553320 d:\programming\c++\main\librarysystem\booklist.h
+	"book.h"
+
+1608552469 source:d:\programming\c++\main\librarysystem(pure oop)\book.cpp
+	"book.h"
+
+1608490623 d:\programming\c++\main\librarysystem(pure oop)\book.h
+	<iostream>
+	<cstring>
+	"user.h"
+
+1608477554 d:\programming\c++\main\librarysystem(pure oop)\user.h
+	<cstring>
+	<iostream>
+
+1608553320 source:d:\programming\c++\main\librarysystem(pure oop)\booklist.cpp
+	"booklist.h"
+
+1608553320 d:\programming\c++\main\librarysystem(pure oop)\booklist.h
+	"book.h"
+
+1608901432 source:d:\programming\c++\main\librarysystem(pure oop)\main.cpp
+	<iostream>
+	"user.h"
+	"book.h"
+	"userlist.h"
+	"booklist.h"
+
+1608491835 d:\programming\c++\main\librarysystem(pure oop)\userlist.h
+	"user.h"
+
+1608546515 source:d:\programming\c++\main\librarysystem(pure oop)\user.cpp
+	"user.h"
+
+1608548718 source:d:\programming\c++\main\librarysystem(pure oop)\userlist.cpp
+	"userlist.h"
+
